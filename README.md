@@ -19,7 +19,8 @@ This is an application for practicing Sublime Text 2 keyboard shortcuts.
 * Make a consolidated js file of all the relevant key bindings.
 * Write js to count keystrokes to test for efficiency.
 * Research whether or not I can just edit the vim keybindings instead of chaining methods to make Sublime keybindings.
-* Change response functionality so that user does not have to reset after every attempt.  
+* Change response functionality so that user does not have to reset after every attempt. 
+* Update to secure versions of Rails and Ruby.
 
 ####Usage
 
